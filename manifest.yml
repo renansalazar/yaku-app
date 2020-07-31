@@ -1,0 +1,5 @@
+---
+applications:
+ - name: yaku
+   random-route: true
+   memory: 256M
