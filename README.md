@@ -45,4 +45,10 @@ The application is currently deployed from IBM Cloud Foundry and can be accessed
 https://yaku.us-south.cf.appdomain.cloud/
 
 ## Authors
-*Grupo 6*
+TEAM 6
+
+-Romel Arce 
+-Luis Hernández
+-Elinora Solorzano
+-Renan Salazar
+-Nilari Berger
