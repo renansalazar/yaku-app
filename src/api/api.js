@@ -2,7 +2,7 @@
 const express = require('express');
 const router = express.Router();
 const status = require('http-status');
-const callWatson = require('../watson/watson');
+//const callWatson = require('../watson/watson');
 
 module.exports = (app, repo) => {
 
