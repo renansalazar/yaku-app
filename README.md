@@ -15,31 +15,34 @@ Facing some of these problems, we have developed Yaku. Yaku is an application de
 </p>
 
 ## Index
-1. [Arquitectura](#Arquitectura)
-2. [Funcionamiento](#Funcionamiento)
+1. [Architecture](#Architecture)
+2. [Functionality](#Functionality)
    - [Dashboard](#Dashboard)
-3. [Desarrollo](#Desarrollo)
-4. [Aplicacion](#Aplicación)
-5. [Autores](#Autores)
+3. [Development](#Development)
+4. [Application](#Application)
+5. [Authors](#Authors)
 
-## Arquitectura
-La arquitectura de la aplicación se puede apreciar a continuación:
+## Architecture
+The Application Architecture could be evaluated below:
 
-## Funcionamiento
-La aplicación esta conformada por 2 componentes importantes, el dashboard de visualizacion de informacion y uno de análisis de imágenes 
+## Functionality
+
+The application is developed with 2 important components, the information visualization dashboard and an image analysis 
 
 ### Dashboard
 
-A traves del Dashboard podemos ver de una manera mas clara la informacion recibida de los diferentes drones.
+Through the Dashboard we can see more clearly the information received from different drones. Drones will be taking pictures that will be used on our platform, to feed our visual recognition database. In that way we can obtain a classification of the main pollutants in that area.On the other hand, we will get data from our sensors that will be measuring PH, detecting presence of heavy metals in water and measuring the position of our drones and sensors wiht acelerometers.And we can get acces to these Data using IBM IoT.
 
-## Desarrollo
-Para ver el apartado del FrontEnd desarrollado en React y los servicios de IBM Cloud usados, se puede dirigir al [readme](https://github.com/real2412/yaku-app/blob/master/client/README.md) del FrontEnd. 
+## Development
 
-Para ver la configuracion inicial del apartado del BackEnd desarrollado en Node.Js se puede observar en el [readme](https://github.com/IBM-Cloud/get-started-node/blob/master/README.md).
+To see the FrontEnd section developed with React and IBM Cloud services, you can go to [readme](https://github.com/real2412/yaku-app/blob/master/client/README.md) of FrontEnd. 
 
-## Aplicación
-La aplicación se encuentra actualmente desplegada desde IBM Cloud Foundry y se puede acceder a ella a través del siguiente enlace:
+To see the initial configuration from BackEnd section developed with Node.Js, you can see in the [readme](https://github.com/IBM-Cloud/get-started-node/blob/master/README.md). [readme](https://github.com/IBM-Cloud/get-started-node/blob/master/README.md).
+
+## Application
+
+The application is currently deployed from IBM Cloud Foundry and can be accessed through the following link:
 https://yaku.us-south.cf.appdomain.cloud/
 
-## Autores
+## Authors
 *Grupo 6*
