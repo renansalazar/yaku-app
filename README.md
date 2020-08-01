@@ -20,7 +20,7 @@ Facing some of these problems, we have developed Yaku. Yaku is an application de
    - [Dashboard](#Dashboard)
 3. [Development](#Development)
 4. [Application](#Application)
-5. [Built With] (#Built With)
+5. [Built With](#Built With)
 6. [Authors](#Authors)
 
 ## Architecture
