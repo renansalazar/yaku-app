@@ -31,7 +31,7 @@ The application is developed with 2 important components, the information visual
 
 ### Dashboard
 
-Through the Dashboard we can see more clearly the information received from different drones. Drones will be taking pictures that will be used on our platform, to feed our visual recognition database. In that way we can obtain a classification of the main pollutants in that area.On the other hand, we will get data from our sensors that will be measuring PH, detecting presence of heavy metals in water and measuring the position of our drones and sensors wiht acelerometers.And we can get acces to these Data using [IBM IoT](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform).
+Through the Dashboard we can see more clearly the information received from different drones. Drones will be taking pictures that will be used on our platform, to feed our visual recognition database. In that way we can obtain a classification of the main pollutants in that area and this could be posible using [IBM Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/).On the other hand, we will get data from our sensors that will be measuring PH, detecting presence of heavy metals in water and measuring the position of our drones and sensors wiht acelerometers.And we can get acces to these Data using [IBM IoT](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform).
 
 ## Development
 
