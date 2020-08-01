@@ -47,8 +47,8 @@ https://yaku.us-south.cf.appdomain.cloud/
 ## Authors
 TEAM 6
 
--Romel Arce 
--Luis Hernández
--Elinora Solorzano
--Renan Salazar
--Nilari Berger
+- Romel Arce 
+- Luis Hernández
+- Elinora Solorzano
+- Renan Salazar
+- Nilari Berger
