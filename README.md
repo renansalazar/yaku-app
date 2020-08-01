@@ -20,7 +20,7 @@ Facing some of these problems, we have developed Yaku. Yaku is an application de
    - [Dashboard](#Dashboard)
 3. [Development](#Development)
 4. [Application](#Application)
-5. [Built With](#Built With)
+5. [Technology](#Technology)
 6. [Authors](#Authors)
 
 ## Architecture
@@ -45,7 +45,7 @@ To see the initial configuration from BackEnd section developed with Node.Js, yo
 The application is currently deployed from IBM Cloud Foundry and can be accessed through the following link:
 https://yaku.us-south.cf.appdomain.cloud/
 
-## Built With
+## Technology
 
 - IBM [IoT Platform](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform) 
 - IBM [Visual Recognition](https://visual-recognition-code-pattern.ng.bluemix.net/)
